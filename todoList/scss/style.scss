@@ -1,0 +1,167 @@
+//font-family: 'Do Hyeon', sans-serif;
+// font-family: 'Francois One', sans-serif;
+//font-family: 'Paytone One', sans-serif;
+
+@mixin flat{
+    border-radius: 50px;
+    background: #ddcce1;
+    box-shadow:  7px 7px 14px #bcadbf, 
+                -7px -7px 14px #feebff;
+}
+@mixin concave{
+    border-radius: 50px;
+    background: linear-gradient(145deg, #c7b8cb, #ecdaf1);
+    box-shadow:  7px 7px 14px #bcadbf, 
+                 -7px -7px 14px #feebff;
+}
+@mixin convex{
+    border-radius: 50px;
+    background: linear-gradient(145deg, #ecdaf1, #c7b8cb);
+    box-shadow:  7px 7px 7px #bcadbf, 
+                -7px -7px 7px #feebff;
+}
+@mixin pressed{
+    border-radius: 50px;
+    background: #ddcce1;
+    box-shadow: inset 7px 7px 7px #bcadbf, 
+                inset -7px -7px 7px #feebff;
+}
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+body{
+    max-width: 960px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #ddcce1;
+    color: #e035e6;
+}
+.app{
+    width: 750px;
+    min-height: 80vh;
+    margin: 40px auto;
+    padding: 50px 100px;
+    @include flat();
+    .title{
+        width: 300px;
+        height: 300px;
+        margin: 0 auto 50px;
+        padding: 30px;
+        @include pressed();
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        h1{
+            span{
+                font-family: 'Paytone One', sans-serif;
+                font-size: 60px;
+                letter-spacing: .2em;
+                font-weight: bold;
+                line-height: 0.9;
+                color: #e88feb;
+                text-shadow:  4px 4px 8px #b5a7b9, 
+                             -4px -4px 8px #fff1ff;
+            }
+        }
+    }
+    .list{
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+        font-size: 24px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        label{
+            width: 24%;
+            margin: 0 20px;
+            padding: 10px;
+            @include flat();
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            input{
+                margin: 0 10px;
+                display: none;
+                @include flat();
+                }
+                &:checked{
+                    @include pressed();
+                }
+            }
+        }
+        p{
+            display: block;
+            text-align: center;
+            margin: 20px auto 0;
+        }
+    }
+    .table{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 40px auto;
+        font-size: 24px;
+        table{
+            th{
+                padding: 10px;
+            }
+            td{
+                padding: 10px;
+            }
+        }
+        .button button, .state button{
+            @include convex();
+            border: none;
+            color: #e035e6;
+            font-size: 20px;
+            padding: 10px 15px;
+            &:active{
+                @include pressed();
+            }
+        }
+        
+    }
+    .add{
+        text-align: center;
+        margin: 0 auto;
+        width: 80%;
+        form{
+            display: flex;
+            flex-direction: column;
+            input{
+                @include pressed();
+                border: none;
+                padding: 10px 20px;
+                &:focus{
+                    border: none;
+                    @include pressed();  
+                }
+            }
+            button[type="submit"]{
+                width: 50px;
+                margin: 20px auto;
+                padding: 10px;
+                border: none;
+                @include flat();
+                color: #e035e6;
+                font-size: 20px;
+                &:active{
+                    @include pressed();
+                }
+            }
+        }
+    }
+}
+
+

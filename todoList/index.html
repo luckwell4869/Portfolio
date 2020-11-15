@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo list</title>
+    <link href="https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Francois+One&family=Paytone+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div id="app" class="app">
+        <div class="title">
+            <h1>
+                <span>To<br></span>
+                <span>Do<br></span>
+                <span>List</span>
+            </h1>
+        </div>
+        <div class="list">
+            <label v-for="label in options">
+                <input type="radio"
+                v-model="current"
+                v-bind:value="label.value">{{ label.label }}
+            </label>
+
+            <p>
+                ({{ computedTodos.length }} seen)
+            </p>
+        </div>
+        
+        <div class="table">
+            <table>
+                <thead v-pre>
+                    <tr>
+                        <th class="id">ID</th>
+                        <th class="comment">Comment</th>
+                        <th class="state">State</th>
+                        <th class="button"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr 
+                    v-for="item in computedTodos" 
+                    v-bind:key="item.id"
+                    v-bind:class="{done:item.state}">
+                        <th>{{ item.id }}</th>
+                        <td>{{item.comment }}</td>
+                        <td class="state">
+                            <button v-on:click="doChangeState(item)">
+                            {{ labels[item.state] }}</button>
+                        </td>
+                        <td class="button">
+                            <button v-on:click="doRemove(item)">Remove</button>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="add">
+            <h2>Add new task</h2>
+            <form class="add-form" v-on:submit.prevent="doAdd">
+                <input type="text" ref="comment">
+                <button type="submit">Add</button>
+            </form>
+        </div>
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+    <script src="main.js">
+        
+    </script>
+</body>
+</html>
