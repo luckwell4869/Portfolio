@@ -1,4 +1,3 @@
-# portfolio 自己紹介
+# Introduce Myself
 
-Introduce Myself
-name :
+初めまして
