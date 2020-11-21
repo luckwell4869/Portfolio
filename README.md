@@ -25,7 +25,8 @@ XRには人の認知を変える力があり、
 - [経歴](./weather/README.md)
 - [経歴](./weather/README.md)
 - [経歴](./weather/README.md)
-- [経歴](./weather/README.md)__________________etc
+- [経歴](./weather/README.md) 
+etc
 
 ## 📚 学習内容
 ### 今読んでいる技術書
@@ -52,7 +53,7 @@ XRには人の認知を変える力があり、
 - [Codrops](https://tympanus.net/codrops/)
 - [ICS media](https://ics.media/)
 
-### 直近の読書歴
+### 直近の読書歴(10)
 - 魔法の世紀
 - デジタルネイチャー
 - 融けるデザイン
