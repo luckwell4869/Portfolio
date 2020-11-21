@@ -1,10 +1,17 @@
+### ⚙機能
+- three.jsを使った3Dの地球を複数生成し、公転させる地球系
 
+### 📚学び
+- three.jsを使った3Dオブジェクトのレンダリング
+- 表面に世界地図を貼った球形オブジェクトをグループ化し、公転させる
+- カメラを原点方向で固定
 
-1.scene：3Dを表現する空間
-2.mesh：物体（geometryとmaterialを組み合わせたもの）
-    geometry：物体の形状（円柱、球、直方体、ドーナツ型など）
-    material：物体の素材（光沢感や影、色など）
+### Three.jsの仕組み
+1. scene：3Dを表現する空間
+2. mesh：物体（geometryとmaterialを組み合わせたもの）
+    - geometry：物体の形状（円柱、球、直方体、ドーナツ型など）
+    - material：物体の素材（光沢感や影、色など）
 
-3.light：光源
-4.camera：視点
-5.renderer：画面に表示
+3. light：光源
+4. camera：視点
+5. renderer：画面に表示
