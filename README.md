@@ -43,7 +43,16 @@ XRには人の認知を変える力があり、
 - [作りながら学ぶjQueryデザインの教科書 ](https://www.amazon.co.jp/%E4%BD%9C%E3%82%8A%E3%81%AA%E3%81%8C%E3%82%89%E5%AD%A6%E3%81%B6jQuery%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E7%8B%A9%E9%87%8E-%E7%A5%90%E6%9D%B1-ebook/dp/B00M939XZY/ref=sr_1_29?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=jQuery&qid=1605938658&sr=8-29)
 - [誰もがあきらめずにすむPHP超入門](https://www.amazon.co.jp/%E8%AA%B0%E3%82%82%E3%81%8C%E3%81%82%E3%81%8D%E3%82%89%E3%82%81%E3%81%9A%E3%81%AB%E3%81%99%E3%82%80PHP%E8%B6%85%E5%85%A5%E9%96%80-%E8%A5%BF%E6%B2%A2-%E5%A4%A2%E8%B7%AF-ebook/dp/B07M8TWRSJ/ref=sr_1_9?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=php&qid=1605947893&sr=8-9)
 
-### 参考サイト
+### 学習サイト
+- [Portfolio](http://whitehead.php.xdomain.jp/)
+- [Codepen](https://codepen.io/luckwell/details/ExyzNLM)
+- [Facebook](https://www.facebook.com/tomoki.yoshii.5/)
+- [Portfolio](http://whitehead.php.xdomain.jp/)
+- [Codepen](https://codepen.io/luckwell/details/ExyzNLM)
+- [Facebook](https://www.facebook.com/tomoki.yoshii.5/)
+- [Portfolio](http://whitehead.php.xdomain.jp/)
+- [Codepen](https://codepen.io/luckwell/details/ExyzNLM)
+- [Facebook](https://www.facebook.com/tomoki.yoshii.5/)
 
 ### 直近の読書歴
 
