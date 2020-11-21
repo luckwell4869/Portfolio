@@ -8,3 +8,6 @@
 ![Flowchart](./chart.png)
 
 ### 📚学び
+- ブラウザの持つnavigatorオブジェクトの汎用性の高さ
+- async/awiatで非同期通信する方法
+- 変数のスコープとreturnによる変数の受け渡しが上手くいかなかった
