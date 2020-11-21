@@ -23,6 +23,7 @@ XRには人の認知を変える力があり、
 - [気圧予報 Pressure Forcast](./weather/README.md)
 - [Neumophic Todolist](./todoList/README.md)
 - [地球系 Earth system](./earth/README.md)
+- [創作二字熟語](./niji/README.md)
 - [etc(codepen)](https://codepen.io/your-work/)
 
 ## 📚 学習内容
