@@ -25,7 +25,7 @@ XRには人の認知を変える力があり、
 - [経歴](./weather/README.md)
 - [経歴](./weather/README.md)
 - [経歴](./weather/README.md)
-- [経歴](./weather/README.md)     etc
+- [経歴](./weather/README.md)__________________etc
 
 ## 📚 学習内容
 ### 今読んでいる技術書
