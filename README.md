@@ -1,4 +1,4 @@
-## 目次
+## 🔖 目次
 - [概要](#概要)
 - [制作物](#制作物)
 - [学習内容](#学習内容)
@@ -8,7 +8,7 @@
 - [リンク](#リンク)
 - [経歴](#経歴)
 
-## 概要
+## 🔎 概要
 1996年生まれの24歳  
 3～6歳まで台湾で暮らす  
 高校卒業までサッカー部に所属  
@@ -21,13 +21,15 @@ XRには人の認知を変える力があり、
 将来的にXRの業界に入ることを目指す  
 二十代のうちに50か国訪れることが目標 
 
-## 制作物
-1. 気圧予報
-[経歴](#経歴)
-2. Todolist
-3. Earth System
+## 💻 制作物
+- [気圧予報](./weather/README.md)
+- [経歴](#経歴)
+- [経歴](#経歴)
+- [経歴](#経歴)
+- [経歴](#経歴)
+- [経歴](#経歴)
 
-## 学習内容
+## 📚 学習内容
 ### 今読んでいる技術書
 - [Portfolio](http://whitehead.php.xdomain.jp/)
 - [Codepen](https://codepen.io/luckwell/details/ExyzNLM)
@@ -39,16 +41,16 @@ XRには人の認知を変える力があり、
 - [JavaScript コードレシピ集](https://www.amazon.co.jp/JavaScript-%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%82%B7%E3%83%94%E9%9B%86-%E6%B1%A0%E7%94%B0-%E6%B3%B0%E5%BB%B6/dp/4297103680/ref=sr_1_1_sspa?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=javascript&qid=1605889638&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExRlE0TEs3SFlLMVpDJmVuY3J5cHRlZElkPUEwMDgzNDI3MjFESVZGUE9ZTkFMMSZlbmNyeXB0ZWRBZElkPUExUVVPWFpTU1pXVUdJJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 - [本当によくわかるJavaScriptの教科書　はじめての人も、挫折した人も、基礎力が必ず身に付く (本当によくわかる教科書)](https://www.amazon.co.jp/%E6%9C%AC%E5%BD%93%E3%81%AB%E3%82%88%E3%81%8F%E3%82%8F%E3%81%8B%E3%82%8BJavaScript%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E4%BA%BA%E3%82%82%E3%80%81%E6%8C%AB%E6%8A%98%E3%81%97%E3%81%9F%E4%BA%BA%E3%82%82%E3%80%81%E5%9F%BA%E7%A4%8E%E5%8A%9B%E3%81%8C%E5%BF%85%E3%81%9A%E8%BA%AB%E3%81%AB%E4%BB%98%E3%81%8F-%E6%9C%AC%E5%BD%93%E3%81%AB%E3%82%88%E3%81%8F%E3%82%8F%E3%81%8B%E3%82%8B%E6%95%99%E7%A7%91%E6%9B%B8-ENTACL-GRAPHICXXX-ebook/dp/B07DKXNHT9/ref=sr_1_29?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=javascript&qid=1605889638&sr=8-29)
 - [作りながら学ぶjQueryデザインの教科書 ](https://www.amazon.co.jp/%E4%BD%9C%E3%82%8A%E3%81%AA%E3%81%8C%E3%82%89%E5%AD%A6%E3%81%B6jQuery%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E7%8B%A9%E9%87%8E-%E7%A5%90%E6%9D%B1-ebook/dp/B00M939XZY/ref=sr_1_29?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=jQuery&qid=1605938658&sr=8-29)
-- [Portfolio](http://whitehead.php.xdomain.jp/)
+- [誰もがあきらめずにすむPHP超入門](https://www.amazon.co.jp/%E8%AA%B0%E3%82%82%E3%81%8C%E3%81%82%E3%81%8D%E3%82%89%E3%82%81%E3%81%9A%E3%81%AB%E3%81%99%E3%82%80PHP%E8%B6%85%E5%85%A5%E9%96%80-%E8%A5%BF%E6%B2%A2-%E5%A4%A2%E8%B7%AF-ebook/dp/B07M8TWRSJ/ref=sr_1_9?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=php&qid=1605947893&sr=8-9)
 
 ### 参考サイト
 
 ### 直近の読書歴
 
-## リンク
+## 🌐 リンク
 - [Portfolio](http://whitehead.php.xdomain.jp/)
 - [Codepen](https://codepen.io/luckwell/details/ExyzNLM)
 - [Facebook](https://www.facebook.com/tomoki.yoshii.5/)
 
-## 経歴
+## 📜 経歴
 
