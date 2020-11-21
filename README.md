@@ -29,13 +29,16 @@ XRには人の認知を変える力があり、
 
 ## 学習内容
 ### 今読んでいる技術書
+- [Portfolio](http://whitehead.php.xdomain.jp/)
+- [Codepen](https://codepen.io/luckwell/details/ExyzNLM)
+- [Facebook](https://www.facebook.com/tomoki.yoshii.5/)
 
 ### 読んだ技術書
-- [HTML5&CSS3標準デザイン講座](https://www.amazon.co.jp/HTML5-CSS3%E6%A8%99%E6%BA%96%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E8%AC%9B%E5%BA%A7-30LESSONS%E3%80%90%E7%AC%AC2%E7%89%88%E3%80%91-%E8%8D%89%E9%87%8E-%E3%81%82%E3%81%91%E3%81%BF/dp/4798158135/ref=sr_1_34?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=html+css&qid=1605889555&sr=8-34{:target="_blank"})
+- [HTML5&CSS3標準デザイン講座](https://www.amazon.co.jp/HTML5-CSS3%E6%A8%99%E6%BA%96%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E8%AC%9B%E5%BA%A7-30LESSONS%E3%80%90%E7%AC%AC2%E7%89%88%E3%80%91-%E8%8D%89%E9%87%8E-%E3%81%82%E3%81%91%E3%81%BF/dp/4798158135/ref=sr_1_34?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=html+css&qid=1605889555&sr=8-34)
 - [スラスラ読める JavaScriptふりがなプログラミング Kindle版 ](https://www.amazon.co.jp/%E3%82%B9%E3%83%A9%E3%82%B9%E3%83%A9%E8%AA%AD%E3%82%81%E3%82%8B-JavaScript%E3%81%B5%E3%82%8A%E3%81%8C%E3%81%AA%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0-%E5%8F%8A%E5%B7%9D%E5%8D%93%E4%B9%9F-ebook/dp/B07DR76HSG/ref=sr_1_8?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=javascript&qid=1605889638&sr=8-8)
-- [JavaScript コードレシピ集](https://www.amazon.co.jp/JavaScript-%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%82%B7%E3%83%94%E9%9B%86-%E6%B1%A0%E7%94%B0-%E6%B3%B0%E5%BB%B6/dp/4297103680/ref=sr_1_1_sspa?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=javascript&qid=1605889638&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExRlE0TEs3SFlLMVpDJmVuY3J5cHRlZElkPUEwMDgzNDI3MjFESVZGUE9ZTkFMMSZlbmNyeXB0ZWRBZElkPUExUVVPWFpTU1pXVUdJJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==){:target="_blank"}
-- [Portfolio](http://whitehead.php.xdomain.jp/)
-- [Portfolio](http://whitehead.php.xdomain.jp/)
+- [JavaScript コードレシピ集](https://www.amazon.co.jp/JavaScript-%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%82%B7%E3%83%94%E9%9B%86-%E6%B1%A0%E7%94%B0-%E6%B3%B0%E5%BB%B6/dp/4297103680/ref=sr_1_1_sspa?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=javascript&qid=1605889638&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExRlE0TEs3SFlLMVpDJmVuY3J5cHRlZElkPUEwMDgzNDI3MjFESVZGUE9ZTkFMMSZlbmNyeXB0ZWRBZElkPUExUVVPWFpTU1pXVUdJJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
+- [本当によくわかるJavaScriptの教科書　はじめての人も、挫折した人も、基礎力が必ず身に付く (本当によくわかる教科書)](https://www.amazon.co.jp/%E6%9C%AC%E5%BD%93%E3%81%AB%E3%82%88%E3%81%8F%E3%82%8F%E3%81%8B%E3%82%8BJavaScript%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E4%BA%BA%E3%82%82%E3%80%81%E6%8C%AB%E6%8A%98%E3%81%97%E3%81%9F%E4%BA%BA%E3%82%82%E3%80%81%E5%9F%BA%E7%A4%8E%E5%8A%9B%E3%81%8C%E5%BF%85%E3%81%9A%E8%BA%AB%E3%81%AB%E4%BB%98%E3%81%8F-%E6%9C%AC%E5%BD%93%E3%81%AB%E3%82%88%E3%81%8F%E3%82%8F%E3%81%8B%E3%82%8B%E6%95%99%E7%A7%91%E6%9B%B8-ENTACL-GRAPHICXXX-ebook/dp/B07DKXNHT9/ref=sr_1_29?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=javascript&qid=1605889638&sr=8-29)
+- [作りながら学ぶjQueryデザインの教科書 ](https://www.amazon.co.jp/%E4%BD%9C%E3%82%8A%E3%81%AA%E3%81%8C%E3%82%89%E5%AD%A6%E3%81%B6jQuery%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E7%8B%A9%E9%87%8E-%E7%A5%90%E6%9D%B1-ebook/dp/B00M939XZY/ref=sr_1_29?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=jQuery&qid=1605938658&sr=8-29)
 - [Portfolio](http://whitehead.php.xdomain.jp/)
 
 ### 参考サイト
