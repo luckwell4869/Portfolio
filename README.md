@@ -1,4 +1,4 @@
-## 目次
+## 🔖 目次
 - [概要](#概要)
 - [制作物](#制作物)
 - [学習内容](#学習内容)
@@ -8,7 +8,7 @@
 - [リンク](#リンク)
 - [経歴](#経歴)
 
-## 概要
+## 🔎 概要
 1996年生まれの24歳  
 3～6歳まで台湾で暮らす  
 高校卒業までサッカー部に所属  
@@ -21,7 +21,7 @@ XRには人の認知を変える力があり、
 将来的にXRの業界に入ることを目指す  
 二十代のうちに50か国訪れることが目標 
 
-## 制作物
+## 💻 制作物
 - [気圧予報](./weather/README.md)
 - [経歴](#経歴)
 - [経歴](#経歴)
@@ -29,7 +29,7 @@ XRには人の認知を変える力があり、
 - [経歴](#経歴)
 - [経歴](#経歴)
 
-## 学習内容
+## 📚 学習内容
 ### 今読んでいる技術書
 - [Portfolio](http://whitehead.php.xdomain.jp/)
 - [Codepen](https://codepen.io/luckwell/details/ExyzNLM)
@@ -47,10 +47,10 @@ XRには人の認知を変える力があり、
 
 ### 直近の読書歴
 
-## リンク
+## 🌐 リンク
 - [Portfolio](http://whitehead.php.xdomain.jp/)
 - [Codepen](https://codepen.io/luckwell/details/ExyzNLM)
 - [Facebook](https://www.facebook.com/tomoki.yoshii.5/)
 
-## 経歴
+## 📜 経歴
 
