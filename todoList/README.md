@@ -1,4 +1,5 @@
 # 📝Neumorphic Todolist
+![todolist screenshot](./img/todolist.png)
 
 ### ⚙機能
 - Vue.jsを使ったTodolist。

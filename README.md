@@ -6,8 +6,6 @@
   - [参考サイト](#参考サイト)
   - [直近の読書歴](#直近の読書歴)
 - [リンク](#リンク)
-- [経歴](#経歴)
-
 ## 🔎 概要
 1996年生まれの24歳  
 3～6歳まで台湾で暮らす  
@@ -23,16 +21,17 @@ XRには人の認知を変える力があり、
 
 ## 💻 制作物
 - [気圧予報](./weather/README.md)
-- [経歴](#経歴)
-- [経歴](#経歴)
-- [経歴](#経歴)
-- [経歴](#経歴)
-- [経歴](#経歴)
+- [Neumophic Todolist](./todoList/README.md)
+- [経歴](./weather/README.md)
+- [経歴](./weather/README.md)
+- [経歴](./weather/README.md)
+- [経歴](./weather/README.md) 
+etc
 
 ## 📚 学習内容
 ### 今読んでいる技術書
 - [Portfolio](http://whitehead.php.xdomain.jp/)
-- [Codepen](https://codepen.io/luckwell/details/ExyzNLM)
+- [Codepen](https://codepen.io/your-work/)
 - [Facebook](https://www.facebook.com/tomoki.yoshii.5/)
 
 ### 読んだ技術書
@@ -43,14 +42,31 @@ XRには人の認知を変える力があり、
 - [作りながら学ぶjQueryデザインの教科書 ](https://www.amazon.co.jp/%E4%BD%9C%E3%82%8A%E3%81%AA%E3%81%8C%E3%82%89%E5%AD%A6%E3%81%B6jQuery%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E7%8B%A9%E9%87%8E-%E7%A5%90%E6%9D%B1-ebook/dp/B00M939XZY/ref=sr_1_29?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=jQuery&qid=1605938658&sr=8-29)
 - [誰もがあきらめずにすむPHP超入門](https://www.amazon.co.jp/%E8%AA%B0%E3%82%82%E3%81%8C%E3%81%82%E3%81%8D%E3%82%89%E3%82%81%E3%81%9A%E3%81%AB%E3%81%99%E3%82%80PHP%E8%B6%85%E5%85%A5%E9%96%80-%E8%A5%BF%E6%B2%A2-%E5%A4%A2%E8%B7%AF-ebook/dp/B07M8TWRSJ/ref=sr_1_9?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=php&qid=1605947893&sr=8-9)
 
-### 参考サイト
+### 学習サイト
+- Youtube
+  - [Coding Math](https://www.youtube.com/user/codingmath/playlists)
+  - [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
+  - [セイト先生のWeb・IT塾](https://www.youtube.com/channel/UC8IWoNfegB72Q2nT9GJy2zQ)
+  - [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
+  - [しまぶーのIT大学](https://www.youtube.com/channel/UCti6dG0zSAetLGGYcgNML4Q)
+  - [たにぐち まことのともすたチャンネル](https://www.youtube.com/user/tomostajp)
+- [Codrops](https://tympanus.net/codrops/)
+- [ICS media](https://ics.media/)
 
-### 直近の読書歴
+### 直近の読書歴(10)
+- 魔法の世紀
+- デジタルネイチャー
+- 融けるデザイン
+- 才能をひらく編集工学
+- やりたいことの見つけ方
+- 誰のためのデザイン
+- アフォーダンス入門
+- オブジェクト指向でなぜつくるのか
+- インターフェイスデザインの心理学
+- 認知科学入門　心と脳
 
 ## 🌐 リンク
 - [Portfolio](http://whitehead.php.xdomain.jp/)
-- [Codepen](https://codepen.io/luckwell/details/ExyzNLM)
+- [Codepen](https://codepen.io/your-work/)
 - [Facebook](https://www.facebook.com/tomoki.yoshii.5/)
-
-## 📜 経歴
 
