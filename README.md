@@ -21,7 +21,7 @@ XRには人の認知を変える力があり、
 
 ## 💻 制作物
 - [気圧予報](./weather/README.md)
-- [Neumophic Todolist](./todolist/README.md)
+- [Neumophic Todolist](./todoList/README.md)
 - [経歴](./weather/README.md)
 - [経歴](./weather/README.md)
 - [経歴](./weather/README.md)
