@@ -25,7 +25,7 @@ XRには人の認知を変える力があり、
 - [経歴](./weather/README.md)
 - [経歴](./weather/README.md)
 - [経歴](./weather/README.md)
-- [経歴](./weather/README.md)
+- [経歴](./weather/README.md)     etc
 
 ## 📚 学習内容
 ### 今読んでいる技術書
@@ -42,17 +42,27 @@ XRには人の認知を変える力があり、
 - [誰もがあきらめずにすむPHP超入門](https://www.amazon.co.jp/%E8%AA%B0%E3%82%82%E3%81%8C%E3%81%82%E3%81%8D%E3%82%89%E3%82%81%E3%81%9A%E3%81%AB%E3%81%99%E3%82%80PHP%E8%B6%85%E5%85%A5%E9%96%80-%E8%A5%BF%E6%B2%A2-%E5%A4%A2%E8%B7%AF-ebook/dp/B07M8TWRSJ/ref=sr_1_9?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=php&qid=1605947893&sr=8-9)
 
 ### 学習サイト
-- [Portfolio](http://whitehead.php.xdomain.jp/)
-- [Codepen](https://codepen.io/luckwell/details/ExyzNLM)
-- [Facebook](https://www.facebook.com/tomoki.yoshii.5/)
-- [Portfolio](http://whitehead.php.xdomain.jp/)
-- [Codepen](https://codepen.io/luckwell/details/ExyzNLM)
-- [Facebook](https://www.facebook.com/tomoki.yoshii.5/)
-- [Portfolio](http://whitehead.php.xdomain.jp/)
-- [Codepen](https://codepen.io/luckwell/details/ExyzNLM)
-- [Facebook](https://www.facebook.com/tomoki.yoshii.5/)
+- Youtube
+  - [Coding Math](https://www.youtube.com/user/codingmath/playlists)
+  - [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
+  - [セイト先生のWeb・IT塾](https://www.youtube.com/channel/UC8IWoNfegB72Q2nT9GJy2zQ)
+  - [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
+  - [しまぶーのIT大学](https://www.youtube.com/channel/UCti6dG0zSAetLGGYcgNML4Q)
+  - [たにぐち まことのともすたチャンネル](https://www.youtube.com/user/tomostajp)
+- [Codrops](https://tympanus.net/codrops/)
+- [ICS media](https://ics.media/)
 
 ### 直近の読書歴
+- 魔法の世紀
+- デジタルネイチャー
+- 融けるデザイン
+- 才能をひらく編集工学
+- やりたいことの見つけ方
+- 誰のためのデザイン
+- アフォーダンス入門
+- オブジェクト指向でなぜつくるのか
+- インターフェイスデザインの心理学
+- 認知科学入門　心と脳
 
 ## 🌐 リンク
 - [Portfolio](http://whitehead.php.xdomain.jp/)
