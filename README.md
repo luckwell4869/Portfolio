@@ -20,12 +20,9 @@ XRには人の認知を変える力があり、
 二十代のうちに50か国訪れることが目標 
 
 ## 💻 制作物
-- [気圧予報](./weather/README.md)
+- [気圧予報 Pressure Forcast](./weather/README.md)
 - [Neumophic Todolist](./todoList/README.md)
-- [経歴](./weather/README.md)
-- [経歴](./weather/README.md)
-- [経歴](./weather/README.md)
-- [経歴](./weather/README.md) 
+- [地球系 Earth system](./earth/README.md)
 etc
 
 ## 📚 学習内容
