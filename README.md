@@ -6,8 +6,6 @@
   - [参考サイト](#参考サイト)
   - [直近の読書歴](#直近の読書歴)
 - [リンク](#リンク)
-- [経歴](#経歴)
-
 ## 🔎 概要
 1996年生まれの24歳  
 3～6歳まで台湾で暮らす  
@@ -60,6 +58,4 @@ XRには人の認知を変える力があり、
 - [Portfolio](http://whitehead.php.xdomain.jp/)
 - [Codepen](https://codepen.io/luckwell/details/ExyzNLM)
 - [Facebook](https://www.facebook.com/tomoki.yoshii.5/)
-
-## 📜 経歴
 
