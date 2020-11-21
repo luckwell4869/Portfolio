@@ -56,6 +56,6 @@ XRには人の認知を変える力があり、
 
 ## 🌐 リンク
 - [Portfolio](http://whitehead.php.xdomain.jp/)
-- [Codepen](https://codepen.io/luckwell/details/ExyzNLM)
+- [Codepen](https://codepen.io/your-work/)
 - [Facebook](https://www.facebook.com/tomoki.yoshii.5/)
 
