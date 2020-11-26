@@ -24,6 +24,7 @@ XRには人の認知を変える力があり、
 - [Neumorphic Todolist](./todoList/README.md)
 - [地球系 Earth system](./earth/README.md)
 - [創作二字熟語](./niji/README.md)
+- [スタッフ管理ツール](./staff/README.md)
 - [etc(codepen)](https://codepen.io/your-work/)
 
 ## 📚 学習内容
