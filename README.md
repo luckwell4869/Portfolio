@@ -25,7 +25,7 @@ XRには人の認知を変える力があり、
 - [地球系 Earth system](./earth/README.md)
 - [創作二字熟語](./niji/README.md)
 - [スタッフ管理ツール](./staff/README.md)
-- [etc(codepen)](https://codepen.io/your-work/):target="_blank"
+- [etc(codepen)](https://codepen.io/your-work/){:target="_blank"}
 
 ## 📚 学習内容
 ### 今読んでいる技術書
