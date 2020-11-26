@@ -54,7 +54,7 @@ XRには人の認知を変える力があり、
 - [Codrops](https://tympanus.net/codrops/)
 - [ICS media](https://ics.media/)
 
-### 直近の読書歴(10)
+### 直近の特筆すべき読書歴(10)
 - 魔法の世紀
 - デジタルネイチャー
 - 融けるデザイン
