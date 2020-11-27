@@ -54,6 +54,7 @@ XRには人の認知を変える力があり、
 - [Codrops](https://tympanus.net/codrops/)
 - [ICS media](https://ics.media/)
 - [Udemy](https://www.udemy.com/)
+  - 超Vue.js 2 完全パック - もう他の教材は買わなくてOK！ (Vue Router, Vuex含む)
 - [The nature of code](https://natureofcode.com/book/)
 ### 直近の特筆すべき読書歴(10)
 - 魔法の世紀
