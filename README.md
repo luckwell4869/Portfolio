@@ -53,6 +53,7 @@ XRには人の認知を変える力があり、
   - [たにぐち まことのともすたチャンネル](https://www.youtube.com/user/tomostajp)
 - [Codrops](https://tympanus.net/codrops/)
 - [ICS media](https://ics.media/)
+- [Udemy](https://www.udemy.com/)
 
 ### 直近の特筆すべき読書歴(10)
 - 魔法の世紀
