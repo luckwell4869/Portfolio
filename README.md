@@ -23,11 +23,11 @@ XRには人の認知を変える力があり、
 
 ## ⚔ スキルセット
 - HTML
-  - 基本的なマークアップ
   - HTML5を使ったグラフィックの描画やフォームの設定
   - EJSやPugといったJavascriptのテンプレートエンジンの知識
 - CSS
   - Sassを使った変数やファイルの分割
+  - display Gridを使ったグリッドレイアウト
   - keyframesによるcss animation
 - Javascript
   - jQueryやvanillaJSによるDOM操作やイベント処理
@@ -36,7 +36,7 @@ XRには人の認知を変える力があり、
   ‐ 既存のコードのリファクタリング
   - オブジェクト指向の概念
   - web APIを非同期的に叩く方法
-  - D3.jsやhcart.jsを使った説明型のデータビジュアライゼーション
+  - D3.jsやchart.jsを使った説明型のデータビジュアライゼーション
   - Vue.jsのテンプレート構文やディレクティブによるDOM操作
   - Three.jsによる3Dオブジェクトのレンダリング
 - PHP
@@ -48,9 +48,14 @@ XRには人の認知を変える力があり、
 - Node.js
   - expressでローカル環境の構築
   - npmによるパッケージインストール
- - その他
-   - コマンドプロンプト(ターミナル)でのcdやmkdirなどの基本的なコマンド
-   - verselやherokuといったPaasへのデプロイ方法
+- デザイン
+  - Photoshop
+    -- 写真のレタッチ
+  - 
+  - 
+- その他
+  - コマンドプロンプト(ターミナル)でのcdやmkdirなどの基本的なコマンド
+  - verselやherokuといったPaasへのデプロイ方法
 
 ## 💻 制作物
 - [気圧予報 Pressure Forcast](./weather/README.md)
