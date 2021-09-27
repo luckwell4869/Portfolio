@@ -59,6 +59,7 @@ XRには人の認知を変える力があり、
   - コマンドプロンプト(ターミナル)でのcdやmkdirなどの基本的なコマンド
   - verselやherokuといったPaasへのデプロイ方法
   - IELTS6.0
+  - 統計検定2級
 
 ## 💻 制作物
 - [気圧予報 Pressure Forcast](./weather/README.md)
